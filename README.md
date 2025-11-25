@@ -1,4 +1,4 @@
-<img src="https://logodix.com/logo/1109692.jpg" alt="drawing" width="400"/>
+<img src="https://logodix.com/logo/1109692.jpg" alt="drawing" width="600" class="center"/>
 
 Hi there, I'm Jeff! 👋
 
