@@ -9,8 +9,9 @@ I'm a passionate **[Your Job Title / Developer Role]** with experience in **[tec
 - 🌱 Currently learning: **[Python]**
 ## - 🔭 Working on: **[current projects or side-projects]**
 - 🌍 Languages: **[programming languages and human languages you speak]**
-- 📫 How to reach me: **[jhoward@benchmade.com]**
-- ⚡ Fun fact: **[a fun fact about yourself]**
+- 📫 How to reach me: **jhoward@benchmade.com**
+- ⚡ Fun fact: **My first car was a 1972 Buick Skylark - I still own it!**
+ https://cdn.dealeraccelerate.com/pjs/1/1258/51513/1920x1440/1972-buick-skylark
 
 ## My Skills 🧠
 
