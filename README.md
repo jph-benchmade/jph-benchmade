@@ -1,5 +1,7 @@
-<img src="https://logodix.com/logo/1109692.jpg" alt="drawing" width="600" class="center"/>
 
+<div class="text-center">
+<img img src="https://logodix.com/logo/1109692.jpg" alt="drawing" width="600"/>
+</div>
 Hi there, I'm Jeff! 👋
 
 ## About Me 🚀
