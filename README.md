@@ -13,13 +13,15 @@ I'm a passionate **[Your Job Title / Developer Role]** with experience in **[tec
 - 🌍 Languages: **[programming languages and human languages you speak]**
 - 📫 How to reach me: **jhoward@benchmade.com**
 - ⚡ Fun fact: **My first car was a 1972 Buick Skylark - I still own it!**
-## ![Buick](https://benchmade.canto.com/v/MI33UNLEIM/album/JQ7RG?display=fitView&viewIndex=0&gSortingForward&gOrderProp=name&referenceTo=&from=fitView&column=image&id=jnf565edg11d3fj8vurfkg394a)
+<div class="text-center">
+<img img src="[https://logodix.com/logo/1109692.jpg](https://cdn.dealeraccelerate.com/pjs/1/1258/51513/1920x1440/1972-buick-skylark)" alt="buick" width="300"/>
+</div>
 
 ## My Skills 🧠
 
 
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
-![SQL]https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white
+![SQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Miro](https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036)
