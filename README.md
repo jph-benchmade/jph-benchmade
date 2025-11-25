@@ -1,6 +1,6 @@
 Hi there, I'm Jeff! 👋
 
-![Banner Image](https://benchmade-my.sharepoint.com/:i:/p/jhoward/Ecu_6T6IGsZLlxJtj1gKrSgBcw3TLojKOGZ0m8OxVymOjQ?e=kd8I76)
+![Banner Image](https://benchmade.canto.com/v/MI33UNLEIM/album/JQ7RG?display=fitView&viewIndex=0&gSortingForward&gOrderProp=name&referenceTo=&from=fitView&column=image&id=jnf565edg11d3fj8vurfkg394a)
 
 
 ## About Me 🚀
