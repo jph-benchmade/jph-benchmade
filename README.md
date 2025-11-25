@@ -8,9 +8,8 @@ Hi there, I'm Jeff! 👋
 
 I'm a passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **[Python]**
-## - 🔭 Working on: **[current projects or side-projects]**
-- 🌍 Languages: **[programming languages and human languages you speak]**
+- 🌱 Currently learning: Python
+- 🌍 Languages: SQL, DAX
 - 📫 How to reach me: **jhoward@benchmade.com**
 - ⚡ Fun fact: **My first car was a 1972 Buick Skylark - I still own it!**
 <div class="text-center">
@@ -18,7 +17,6 @@ I'm a passionate **[Your Job Title / Developer Role]** with experience in **[tec
 </div>
 
 ## My Skills 🧠
-
 
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 ![SQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
