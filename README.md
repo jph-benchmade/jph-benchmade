@@ -14,7 +14,7 @@ I'm a passionate **[Your Job Title / Developer Role]** with experience in **[tec
 - 📫 How to reach me: **jhoward@benchmade.com**
 - ⚡ Fun fact: **My first car was a 1972 Buick Skylark - I still own it!**
 <div class="text-center">
-<img img src="[https://logodix.com/logo/1109692.jpg](https://cdn.dealeraccelerate.com/pjs/1/1258/51513/1920x1440/1972-buick-skylark)" alt="buick" width="300"/>
+<img img src="https://cdn.dealeraccelerate.com/pjs/1/1258/51513/1920x1440/1972-buick-skylark" alt="buick" width="300"/>
 </div>
 
 ## My Skills 🧠
