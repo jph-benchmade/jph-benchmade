@@ -1,6 +1,7 @@
 Hi there, I'm Jeff! 👋
 
-![Banner Image](https://benchmade.canto.com/v/MI33UNLEIM/album/JQ7RG?display=fitView&viewIndex=0&gSortingForward&gOrderProp=name&referenceTo=&from=fitView&column=image&id=jnf565edg11d3fj8vurfkg394a)
+![Banner Image](https://logodix.com/logo/1109692.jpg)
+
 
 
 ## About Me 🚀
