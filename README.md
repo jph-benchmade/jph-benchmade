@@ -12,8 +12,7 @@ I'm a passionate **[Your Job Title / Developer Role]** with experience in **[tec
 - 🌍 Languages: **[programming languages and human languages you speak]**
 - 📫 How to reach me: **jhoward@benchmade.com**
 - ⚡ Fun fact: **My first car was a 1972 Buick Skylark - I still own it!**
-![Buick](https://cdn.dealeraccelerate.com/pjs/1/1258/51513/1920x1440/1972-buick-skylark](https://benchmade.canto.com/v/MI33UNLEIM/album/JQ7RG?display=fitView&viewIndex=0&gSortingForward&gOrderProp=name&referenceTo=&from=fitView&column=image&id=jnf565edg11d3fj8vurfkg394a)
-
+![Buick](https://benchmade.canto.com/v/MI33UNLEIM/album/JQ7RG?display=fitView&viewIndex=0&gSortingForward&gOrderProp=name&referenceTo=&from=fitView&column=image&id=jnf565edg11d3fj8vurfkg394a)
 
 ## My Skills 🧠
 
