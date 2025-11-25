@@ -1,8 +1,8 @@
 Hi there, I'm Jeff! 👋
 
-![Banner Image](https://logodix.com/logo/1109692.jpg)
+## ![Banner Image](https://logodix.com/logo/1109692.jpg)
 
-
+<img src="https://logodix.com/logo/1109692.jpg" alt="drawing" width="200"/>
 
 ## About Me 🚀
 
